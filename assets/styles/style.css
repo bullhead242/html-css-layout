@@ -11,7 +11,11 @@ p {
 }
 
 .half {
+  float:left;
+  width: 50%;
 }
 
 .full{
+  clear: both;
+  width: 100%;
 }
